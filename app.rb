@@ -14,3 +14,4 @@ puts Person.increment
 # require "securerandom"
 # .hex is random string
 # puts SecureRandom.hex(10) # 10 is length of string # 0-9 a-f 
+#
